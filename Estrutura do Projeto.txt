@@ -1,0 +1,11 @@
+my-pwa-app/
+├── backend/
+│   ├── server.js
+│   ├── bd.bd3
+│   └── package.json
+├── frontend/
+│   ├── index.html
+│   ├── dashboard.html
+│   ├── style.css
+│   └── app.js
+└── manifest.json
